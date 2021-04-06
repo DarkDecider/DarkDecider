@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarkDecider 
 - 👀 I’m interested in Microsoft .NET (aka Core), Databases
 - 🌱 I’m currently learning how to use Git and GitHub (after CVS and others)
-- 💞️ I’m looking to collaborate on ... Destiny 2 in Strikes and Battlegrounds
+- 💞️ I’m looking to collaborate on ... Destiny 2 in Strikes, Gambit and Battlegrounds
 
 <!--
 - 📫 How to reach me ...
